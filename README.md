@@ -4,7 +4,7 @@ Here you will find my experience in the course
 
 ### Coursera University of Michigan [Coursera](https://www.coursera.org/specializations/web-design)
 
-### Web Design for Everybody: Basics of Web Development & Coding => [Link](https://www.coursera.org/account/accomplishments/specialization/certificate/UCNQ666QC6ZQ)
+### Web Design for Everybody: Basics of Web Development & Coding => `[Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/UCNQ666QC6ZQ)`
 
 1- Introduction to HTML5
 Certificate => [Link](https://www.coursera.org/account/accomplishments/certificate/HP4P8RHCVT29)
