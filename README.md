@@ -2,7 +2,7 @@
 
 `Here you will find my experience in the course 👋`
 
-### Coursera University of Michigan [Coursera](https://www.coursera.org/specializations/web-design)
+### University of Michigan [Coursera](https://www.coursera.org/specializations/web-design)
 
 ![alt text](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/xdp/umich.svg?auto=format%2Ccompress&dpr=1&h=70)
 
